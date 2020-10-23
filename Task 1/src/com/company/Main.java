@@ -1,10 +1,8 @@
-package basic.pack;
+package brykhanova;
 
 public class Main {
 
     public static void main(String[] args) {
-        Battleground bg = new Battleground();
-        System.out.println(bg.toString());
-
+	// write your code here
     }
 }
