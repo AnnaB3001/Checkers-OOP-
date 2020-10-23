@@ -1,4 +1,4 @@
-package brykhanova.gameobjects;
+package com.company.gameobjects;
 
 public class Player {
     String name;

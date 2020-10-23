@@ -1,4 +1,4 @@
-package brykhanova.gameobjects;
+package com.company.gameobjects;
 
 public class Board {
     Checker[][] board = new Checker[8][8];

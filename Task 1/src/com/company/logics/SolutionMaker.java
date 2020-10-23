@@ -1,6 +1,6 @@
-package brykhanova.logics;
+package com.company.logics;
 
-import brykhanova.gameobjects.Checker;
+import com.company.gameobjects.Checker;
 
 public class SolutionMaker {
     public static Checker[][] chooseStep(Checker[][] board) {

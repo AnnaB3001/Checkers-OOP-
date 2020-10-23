@@ -1,6 +1,6 @@
-package brykhanova.logics;
+package com.company.logics;
 
-import brykhanova.gameobjects.Checker;
+import com.company.gameobjects.Checker;
 
 public class WalkService {
     public static Checker[][] makeStep(Checker[][] board, int startX, int startY, int endX, int endY){
